@@ -31,9 +31,9 @@ export class CitiesService {
       description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae earum, cumque praesentium numquam magni temporibus, a minima tempora suscipit rerum assumenda vitae consectetur. Voluptatum at recusandae minus veniam incidunt molestiae?",
       image: "./assets/NorthernBeaches.jpg"
     }, {
-      name: "Portage",
+      name: "Romania",
       description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae earum, cumque praesentium numquam magni temporibus, a minima tempora suscipit rerum assumenda vitae consectetur. Voluptatum at recusandae minus veniam incidunt molestiae?",
-      image: "./assets/Portage.jpg"
+      image: "./assets/Romania.jpg"
     },
   ];
   constructor() { }

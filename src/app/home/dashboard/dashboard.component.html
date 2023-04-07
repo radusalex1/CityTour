@@ -1,1 +1,6 @@
-<p>dashboard works!</p>
+<div class="search-bar-container">
+    <app-search (searchText)="search($event)"></app-search>
+    </div>
+    <app-information></app-information>
+    <app-popular-city [cities]="cities"></app-popular-city>
+    
